@@ -1,4 +1,4 @@
-<h2><img src="https://imgur.com/G9rlvP2.png" height="10%" width="10%" alt="Disk Sanitization Steps"/> Until Your Last Breath  </h2>
+<h2><img src="https://imgur.com/G9rlvP2.png" height="10%" width="10%"/> Until Your Last Breath  </h2>
 
 <h3>🛠️ Outils</h3>
 
