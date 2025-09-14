@@ -12,7 +12,7 @@
 
 - PC
 
-<h3>À propos</h3>
+<h3>ℹ️ À propos</h3>
    Ce jeu d'infiltration en 2.5D a été réalisé par une équipe de 9 personnes (2 sound designers, 5 game/level designers et 2 game programmers), sur une durée de 3 mois.
   
   <h4>Lors de ce projet, j'ai implémenté :</h4>
@@ -23,7 +23,7 @@
   </ul>
 
 
-<h3>À propos du jeu</h3>
+<h3>👾 À propos du jeu</h3>
 
 - Le jeu se joue à la manette.
 - L’objectif est de terminer le niveau sans mourir. Il s’inscrit dans la catégorie des jeux de type "die and retry".
