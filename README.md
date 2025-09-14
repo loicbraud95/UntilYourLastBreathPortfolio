@@ -8,7 +8,7 @@
 
 - C#
 
-<h3>🎮 PLatforme</h3>
+<h3>🎮 Platforme</h3>
 
 - PC
 
