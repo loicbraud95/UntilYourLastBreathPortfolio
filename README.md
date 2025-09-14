@@ -17,9 +17,9 @@
   
   <h4>Lors de ce projet, j'ai implémenté :</h4>
   <ul>
-    <li>les mouvements du joueur</li>
-    <li>les objets interactifs</li>
-    <li>le système de gestion du son</li>
+    <li>les mouvements du joueur.</li>
+    <li>les objets interactifs.</li>
+    <li>le système de gestion du son.</li>
   </ul>
 
 
